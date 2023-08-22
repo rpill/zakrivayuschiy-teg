@@ -1,4 +1,4 @@
-.theme-dark {
+:root.theme-dark {
   --accent-color: #00cc14;
   --bg-color: #000;
   --animation-contour-color: #00cc14;
@@ -7,7 +7,7 @@
   --card-title-font-weight: 785;
 }
 
-.theme-light {
+:root.theme-light {
   --accent-color: #000;
   --bg-color: #fff;
   --main-card-font-weight: 400;
